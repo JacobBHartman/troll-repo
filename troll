@@ -1,4 +1,3 @@
 #!/bin/bash
-cd
-mv ./troll-repo/face.txt .
+cp ./troll-repo/face.txt ~
 echo "alias ls='cat ~/face.txt'" >> ~/.bash_aliases && source ~/.bash_aliases
