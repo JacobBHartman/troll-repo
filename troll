@@ -1,7 +1,8 @@
 #!/bin/bash
 cp ./face.txt ~
 echo "alias ls='cat ~/face.txt'" >> ~/.bash_aliases
+source ~/.bash_aliases
+echo "alias ls='cat ~/fact.txt'" >> ~/.bashrc
+source ~/.bashrc
 cd
-./.bash_aliases
 clear
-history -c
