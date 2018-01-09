@@ -7,3 +7,9 @@
 4. `./troll`
 5. exit their terminal
 6. pop some popcorn and watch from afar
+
+## to do
+the purpose is to make the process as quick as possible:
+from "identifying a victim" to "task complete"
+
+* have the changes take immediately
